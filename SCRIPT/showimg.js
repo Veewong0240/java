@@ -1,3 +1,3 @@
-function showImg(){
-    document. getElementById("myImage").style.display = "block"
+function howdy(firstName){
+    alert("Howdy " + firstName);
 }
